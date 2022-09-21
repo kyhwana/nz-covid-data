@@ -3,7 +3,7 @@
 ## Case data
 
 The `cases` directory contains data related to COVID-19 cases including the _case demographics_ csv file that was formerly hosted on the Ministry of Health's website
-
+.
 ## Vaccine data
 
 The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine data releases](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data)
